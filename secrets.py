@@ -1,0 +1,2 @@
+client_ID = "uQ24qiN_PuxAYAjOTwz9DA"
+API_KEY="fp-PE8T5oGxpgXhaZR6eRf2M7-MFIptDzJrzgJn-zo6KA3CcgSxmnyQc-K7OEDonkFBrWud26Thf8jg__AWmXZnZIiQn-R8wcBNdDxo6F7NoIY-mFfGZo7F-lVC6YXYx"
