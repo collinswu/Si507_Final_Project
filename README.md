@@ -12,6 +12,11 @@ This project uses interactive command shell to search the restaurant information
 
 Total challenge score = 8
 
+## Data Structure
+The information of restaurants and cities are structured as a tree. Here is the tree structure:
+![截屏2021-12-18 下午3 32 17](https://user-images.githubusercontent.com/49496754/146654800-70bedf71-e802-4ee1-badc-5e65cd586def.png)
+
+
 ## Getting Start
 ### Prerequest
 Python3, Plotly, JSON, requests, Matplotlib, pandas, BeautifulSoup, webbrowser, data structure, and command line tool
