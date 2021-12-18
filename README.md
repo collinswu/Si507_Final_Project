@@ -9,7 +9,8 @@ This project uses interactive command shell to search the restaurant information
 3. Wikipedia website "List of United States cities by population": get inforamtion of the cities. 
   * Link: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
   * Challenge score: 4. Scraping a new single page
-* Total challenge score = 8
+
+Total challenge score = 8
 
 ## Getting Start
 ### Prerequest
